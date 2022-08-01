@@ -7,6 +7,9 @@
   
 </h3>
 
+
+<br/><br/>
+
 - 🔭 I’m currently working on ***AI projects***
 - 🌱 I’m currently learning ***AI and Data Science***
 - 💞️ I’m looking to collaborate on ***sharing useful Apps and this apps help the people***
