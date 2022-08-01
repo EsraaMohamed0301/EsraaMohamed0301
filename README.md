@@ -8,10 +8,11 @@
 </h3>
 
 - 🔭 I’m currently working on AI projects
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning AI and Data Science
+- 💞️ I’m looking to collaborate on sharing useful Apps and this apps help the people
+
+
+
 
 <!---
 EsraaMohamed0301/EsraaMohamed0301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
